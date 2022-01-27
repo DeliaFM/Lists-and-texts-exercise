@@ -1,0 +1,15 @@
+h1 {
+  color: #f86846;
+}
+h2 { 
+  color:#822dc8;
+}
+.roman {
+   list-style-type: upper-roman;
+}
+.pink {
+  color: #ca5ec4;
+}
+.black {
+  text-decoration: underline;
+}
